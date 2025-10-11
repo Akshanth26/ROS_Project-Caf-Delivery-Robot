@@ -3,7 +3,7 @@
   <name>sjtu_drone_control</name>
   <version>0.0.1</version>
   <description>Control package with Python and C++ nodes publishing to /cmd_vel</description>
-  <maintainer email="you@example.com">Your Name</maintainer>
+  <maintainer email="akshanthchouhan.m@gmail.com">Akshanth Chouhan</maintainer>
   <license>MIT</license>
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>rclcpp</build_depend>
